@@ -6,6 +6,8 @@
 
 Hi, I'm CW, Chi Wei Lin (林啟維).
 
+### What I Do
+
 I've been building startups for over a decade. Before Portaly, I worked on Shepherd Kit, an education gaming company, which crowdfunded over USD $1M through Kickstarter, shipping over 20+ countries.
 
 Since 2022, Portaly has grown into a business toolkit used by **200,000+ creators**, scaling from **100K to 2.5M ARR in just two years**. Along the way we won [Product of the Day](https://www.producthunt.com/products/portaly) on Product Hunt (2023) and were selected as **Taiwan's Top 30 Startups** the same year.
@@ -21,6 +23,6 @@ Our next chapter is about **builders**, who I believe is the next generation of 
 
 ### Connect
 
-- 🌐 [portaly.cc](https://portaly.cc)
+- 🌐 [portaly.cc/cw](https://portaly.cc/cw)
 - 💼 [LinkedIn](https://www.linkedin.com/chiweilin131)
 - 📧 cw@portaly.cc
