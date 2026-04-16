@@ -18,9 +18,9 @@ Our next chapter is about **builders**, who I believe is the next generation of 
 
 AI has collapsed the cost of making software. Anyone with an idea can ship a product in a weekend, so **building is no longer the bottleneck. Scaling is.**
 
-**Portaly Vibe** is our answer: a growth-first commerce layer for the AI-native generation. One-line integration delivers checkout, subscriptions, member management, **conversion analytics, and data-driven insights**, everything a builder needs to turn traffic into revenue and a product into a business.
+**Portaly Vibe** is our answer: a growth-first commerce layer for the AI-native generation. One-line integration delivers checkout, subscriptions, member management, conversion analytics, and data-driven insights, everything a builder needs to turn traffic into revenue and a product into a business.
 
-Portaly handles **growth**, which is the missing infrastructure for every solo operator who wants to scale without a team.
+In short, Portaly handles **growth**, giving you the arsenal from our previous success.
 
 ### What I care about
 
