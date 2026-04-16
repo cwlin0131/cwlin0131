@@ -1,6 +1,6 @@
 # CW (Chi Wei) Lin
 
-**Founder of [Portaly](https://portaly.cc) | 100K → 2.5M ARR in 2 years | Building commerce infra for vibe coders x Stripe**
+**Founder & CEO of [Portaly](https://portaly.cc)** — Building the commerce infrastructure for the global creator & builders.
 
 ---
 
