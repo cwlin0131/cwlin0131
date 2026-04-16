@@ -19,7 +19,7 @@ Our next chapter is about **builders**, who I believe are the next generation of
 ### What I love
 
 - I pursue the craftsmanship of building: PLG, growth hacking, and building an AI-driven culture.
-- I love Breaking Bad series, I watch anime (Frieren is my latest #1), I work out 3 times a week.
+- I love the Breaking Bad series, I watch anime (Frieren is my latest #1), I work out 3 times a week.
 
 ### How to connect
 
