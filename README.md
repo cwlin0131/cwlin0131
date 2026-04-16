@@ -6,7 +6,7 @@
 
 Hi, I'm CW, Chi Wei Lin (林啟維).
 
-### What I Do
+### What I do
 
 I've been building startups for over a decade. Before Portaly, I worked on Shepherd Kit, an education gaming company, which crowdfunded over USD $1M through Kickstarter, shipping to 20+ countries.
 
@@ -21,7 +21,7 @@ Our next chapter is about **builders**, who I believe are the next generation of
 - I pursue the craftsmanship of building: PLG, growth hacking, and building an AI-driven culture.
 - I love Breaking Bad series, I watch anime (Frieren is my latest #1), I work out 3 times a week.
 
-### Connect
+### How to connect
 
 - 🌐 [portaly.cc/cw](https://portaly.cc/cw)
 - 💼 [LinkedIn](https://www.linkedin.com/in/chiweilin131)
