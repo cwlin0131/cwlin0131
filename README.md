@@ -14,7 +14,7 @@ Since 2022, Portaly has grown into a business toolkit used by **200,000+ creator
 
 I've personally run **300+ one-on-one interviews** with social managers, creators, and million-follower influencers — and coached dozens of them to generate millions of NTD in digital product revenue. Product decisions start there, not in a spreadsheet.
 
-### What we're building in 2026: Portaly for Builders
+### What we're building today: Portaly Vibe
 
 The next chapter isn't just creators — it's **Builders**.
 
