@@ -1,28 +1,28 @@
-# CW (Chi Wei) Lin
+# CW Lin
 
-**Founder & CEO of [Portaly](https://portaly.cc)** — Building the commerce infrastructure for the global creator & builders.
+**Founder & CEO of [Portaly](https://portaly.cc)** Building the commerce infrastructure for the global creator & builders.
 
 ---
 
-Hi, I'm CW.
+Hi, I'm CW, Chi Wei Lin (林啟維).
 
-I've been building companies for over a decade. Before Portaly, I worked across education and gaming, partnering with organizations like the British Museum and Taiwan's Ministry of Culture, raised over USD $1M through crowdfunding, and keynoted at SPIEL Essen — the world's largest board game fair.
+I've been building startups for over a decade. Before Portaly, I worked on Shepherd Kit, an education gaming company, which crowdfunded over USD $1M through Kickstarter, shipping over 20+ countries.
 
-### Portaly so far
+### Portaly before
 
-Since 2022, Portaly has grown into a business toolkit used by **200,000+ creators**, scaling from **100K to 2.5M ARR in just two years**. Along the way we won **Product of the Day on Product Hunt (2023)** and were selected as one of **Taiwan's Top 30 Startups** by Meet Taipei the same year.
+Since 2022, Portaly has grown into a business toolkit used by **200,000+ creators**, scaling from **100K to 2.5M ARR in just two years**. Along the way we won **Product of the Day on Product Hunt (2023)** and were selected as **Taiwan's Top 30 Startups** the same year.
 
-I've personally run **300+ one-on-one interviews** with social managers, creators, and million-follower influencers — and coached dozens of them to generate millions of NTD in digital product revenue. Product decisions start there, not in a spreadsheet.
+### What we're building today
 
-### What we're building today: Portaly Vibe
+Our next chapter is about **builders**, who I believe is the next generation of creators.
 
-The next chapter isn't just creators — it's **Builders**.
+AI has collapsed the cost of making software. Anyone with an idea can ship a product in a weekend, so **building is no longer the bottleneck. Scaling is.**
 
-AI has collapsed the cost of making software. Anyone with an idea can now vibe-code a product in a weekend. But the *business* part — payments, subscriptions, member management, invoices, tax — is still where 90% of non-engineers get stuck.
+Today's builders hit the same wall over and over: converting visitors into paying users, understanding what actually moves the needle, optimizing retention, handling payments, invoices, and compliance. Each of these is a full-time problem, and solo operators don't have the team — or the patience — to solve them one by one.
 
-**Portaly Vibe** is our answer: a one-line-integration commerce layer for vibe coders and indie makers. We handle checkout, subscriptions, invoicing, member management, and compliance — so Builders can focus on shipping the product, not wiring up Stripe.
+**Portaly Vibe** is our answer: a growth-first commerce layer for the AI-native generation. One-line integration delivers checkout, subscriptions, member management, **conversion analytics, and data-driven insights**, everything a builder needs to turn traffic into revenue and a product into a business.
 
-Think of it as **Stripe for Creators and Builders** — the missing infrastructure for the AI-native generation of solo operators.
+Portaly handles **growth**, which is the missing infrastructure for every solo operator who wants to scale without a team.
 
 ### What I care about
 
@@ -32,5 +32,5 @@ Think of it as **Stripe for Creators and Builders** — the missing infrastructu
 ### Connect
 
 - 🌐 [portaly.cc](https://portaly.cc)
-- 💼 [LinkedIn](https://www.linkedin.com/) *(待補連結)*
+- 💼 [LinkedIn](https://www.linkedin.com/chiweilin131)
 - 📧 cw@portaly.cc
