@@ -14,10 +14,10 @@ Our next chapter is about **builders**, who I believe is the next generation of 
 
 **Portaly Vibe** offers a growth-first commerce layer for the vibe coding generation. One-line integration delivers checkout, subscriptions, member management, conversion analytics, and data-driven insights, everything a builder needs to turn traffic into revenue and a product into a business.
 
-### What I care about
+### What I love
 
-- **The craft of building.** PLG, growth hacking, and building an AI-driven culture inside the team. I don't code, but I live inside AI tool chains every day, and I believe the next generation of product teams will be defined by how fluently they operate with AI.
-- My vision is to help creators and builders succeed.
+- I pursue the craftsmanship of building. PLG, growth hacking, and building an AI-driven culture.
+- I love the Breaking Bad series, I watch animes (Frieren is No1 since 2020), I work out 3 times a week.
 
 ### Connect
 
