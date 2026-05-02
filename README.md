@@ -1,6 +1,6 @@
 # CW Lin
 
-**Founder & CEO of [Portaly](https://portaly.cc)** Building commerce infrastructure for creators & builders.
+**Founder & CEO of [Portaly](https://portaly.cc)** and **[Portaly Vibe](https://portaly.ai)** Building commerce and growth infrastructure in the AI era.
 
 ---
 
@@ -14,12 +14,12 @@ Since 2022, **Portaly** has grown into a business toolkit used by **200,000+ cre
 
 Our next chapter is about **builders**, who I believe are the next generation of creators.
 
-**Portaly Vibe** offers a growth-first commerce layer for the vibe coding generation. One-line integration delivers checkout, subscriptions, member management, conversion analytics, and data-driven insights. Everything a builder needs to turn traffic into revenue and a product into a business.
+**Portaly Vibe** is your AI Product Growth Engineer. The OS for solopreneurs and small AI teams to run end-to-end product growth autonomously.
 
 ### What I love
 
 - I pursue the craftsmanship of building: PLG, growth hacking, and building an AI-driven culture.
-- I love the Breaking Bad series, I watch anime (Frieren is my latest #1), I work out 3 times a week.
+- I love the Breaking Bad series, I watch anime (Frieren as my #1), I work out 3 times a week.
 
 ### How to connect
 
