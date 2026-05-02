@@ -1,6 +1,8 @@
 # CW Lin
 
-**Founder & CEO of [Portaly](https://portaly.cc)** and **[Portaly Vibe](https://portaly.ai)** Building commerce and growth infrastructure in the AI era.
+**Founder & CEO of [Portaly](https://portaly.cc)** and **[Portaly Vibe](https://portaly.ai)** 
+
+I'm building commerce and growth infrastructure in the AI era.
 
 ---
 
