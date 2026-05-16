@@ -14,9 +14,7 @@ I've been building startups for over a decade. Before Portaly, I worked on Sheph
 
 Since 2022, **Portaly** has grown into a business toolkit used by **200,000+ creators**, scaling to **24x ARR in two years**. Along the way we won [Product of the Day](https://www.producthunt.com/products/portaly) on Product Hunt (2023) and were selected as **Taiwan's Top 30 Startups** the same year.
 
-Our next chapter is about **builders**, who I believe are the next generation of creators.
-
-**Portaly Vibe** is your AI Product Growth Engineer. The OS for solopreneurs and small AI teams to run end-to-end product growth autonomously.
+Our next chapter is about **builders**, who I believe are the next generation of creators. It is an AI Product Growth Engineer made for solopreneurs and small AI teams to run end-to-end product growth autonomously.
 
 ### What I love
 
